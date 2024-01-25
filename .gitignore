@@ -1,0 +1,4 @@
+.vscode
+client-temp/
+**/dist/
+**/node_modules/
